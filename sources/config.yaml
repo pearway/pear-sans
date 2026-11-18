@@ -1,0 +1,10 @@
+sources:
+  - PearSans.glyphs
+familyName: Pear Sans
+axisOrder:
+  - wght
+buildVariable: true
+buildStatic: true
+buildOTF: false
+buildWebfont: false
+autohintTTF: false
